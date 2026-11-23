@@ -475,19 +475,19 @@
       "insightsCollectionNote": "ilo Navidrome li kama jo e sona. sona li jo ala e sona sina. sona ni li pona e ilo. sina wile sona sin anu weka e sona ni la, [o luka e mi]"
     },
     "validation": {
-      "invalidChars": "Please only use letters and numbers",
-      "passwordDoesNotMatch": "Password does not match",
-      "required": "Required",
-      "minLength": "Must be %{min} characters at least",
-      "maxLength": "Must be %{max} characters or less",
-      "minValue": "Must be at least %{min}",
-      "maxValue": "Must be %{max} or less",
-      "number": "Must be a number",
-      "email": "Must be a valid email",
-      "oneOf": "Must be one of: %{options}",
-      "regex": "Must match a specific format (regexp): %{pattern}",
-      "unique": "Must be unique",
-      "url": "Must be a valid URL"
+      "invalidChars": "o kepeken e sitelen toki lili anu sitelen nanpa",
+      "passwordDoesNotMatch": "sina pana e nimi len ante",
+      "required": "ni li wile",
+      "minLength": "suli nimi li ken ala. o kepeken sitelen %{min} anu nanpa mute",
+      "maxLength": "suli nimi li ken ala. o kepeken sitelen %{max} anu nanpa pi mute ala",
+      "minValue": "suli nanpa li ken ala. o kepeken nanpa %{min} anu nanpa mute",
+      "maxValue": "suli nanpa li ken ala. o kepeken nanpa %{max} anu nanpa pi mute ala",
+      "number": "o kepeken nanpa",
+      "email": "o kepeken nimi pi lipu ilo",
+      "oneOf": "o kepeken wan tan ni: %{options}",
+      "regex": "nimi o jo e sijelo ni (regexp): %{pattern}",
+      "unique": "nimi ale o ante",
+      "url": "o kepeken e nimi ilo"
     },
     "action": {
       "add_filter": "Add filter",
