@@ -539,21 +539,21 @@
     },
     "input": {
       "file": {
-        "upload_several": "Drop some files to upload, or click to select one.",
-        "upload_single": "Drop a file to upload, or click to select it."
+        "upload_several": "o pana e lipu anu luka e mi.",
+        "upload_single": "o pana e lipu anu luka e mi."
       },
       "image": {
-        "upload_several": "Drop some pictures to upload, or click to select one.",
-        "upload_single": "Drop a picture to upload, or click to select it."
+        "upload_several": "o pana e sitelen anu luka e mi.",
+        "upload_single": "o pana e sitelen anu luka e mi."
       },
       "references": {
-        "all_missing": "Unable to find references data.",
-        "many_missing": "At least one of the associated references no longer appears to be available.",
-        "single_missing": "Associated reference no longer appears to be available."
+        "all_missing": "linja sona ale li lon ala.",
+        "many_missing": "linja sona li lon ala.",
+        "single_missing": "linja sona wan li lon ala."
       },
       "password": {
-        "toggle_visible": "Hide password",
-        "toggle_hidden": "Show password"
+        "toggle_visible": "o len e nimi len",
+        "toggle_hidden": "o pana e nimi len"
       }
     },
     "message": {
