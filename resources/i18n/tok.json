@@ -522,8 +522,8 @@
       "download": "o tawa lon ilo sina"
     },
     "boolean": {
-      "true": "Yes",
-      "false": "No"
+      "true": "lon",
+      "false": "ala"
     },
     "page": {
       "create": "Create %{name}",
