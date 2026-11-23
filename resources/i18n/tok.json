@@ -729,30 +729,30 @@
   },
   "about": {
     "links": {
-      "homepage": "Home page",
-      "source": "Source code",
-      "featureRequests": "Feature requests",
-      "lastInsightsCollection": "Last insights collection",
+      "homepage": "lipu open",
+      "source": "nasin lawa",
+      "featureRequests": "o pana e wile",
+      "lastInsightsCollection": "ilo li kama jo e sona",
       "insights": {
-        "disabled": "Disabled",
-        "waiting": "Waiting"
+        "disabled": "ala",
+        "waiting": "awen"
       }
     },
     "tabs": {
-      "about": "About",
-      "config": "Configuration"
+      "about": "sona",
+      "config": "nasin ilo"
     },
     "config": {
-      "configName": "Config Name",
-      "environmentVariable": "Environment Variable",
-      "currentValue": "Current Value",
-      "configurationFile": "Configuration File",
-      "exportToml": "Export Configuration (TOML)",
-      "downloadToml": "Download Configuration (TOML)",
-      "exportSuccess": "Configuration exported to clipboard in TOML format",
-      "exportFailed": "Failed to copy configuration",
-      "devFlagsHeader": "Development Flags (subject to change/removal)",
-      "devFlagsComment": "These are experimental settings and may be removed in future versions"
+      "configName": "nimi lon lipu nasin ilo",
+      "environmentVariable": "nimi lon lipu ma (.env)",
+      "currentValue": "ijo awen",
+      "configurationFile": "lipu nasin ilo",
+      "exportToml": "o pana e lipu nasin ilo (TOML)",
+      "downloadToml": "o kama jo e lipu nasin ilo (TOML)",
+      "exportSuccess": "lipu nasin ilo li tawa lipu lili sina",
+      "exportFailed": "pana li pakala",
+      "devFlagsHeader": "wile pi awen ala (ona li ken weka li ken ante)",
+      "devFlagsComment": "wile ni li awen ala li ken weka anu ken ante."
     }
   },
   "activity": {
