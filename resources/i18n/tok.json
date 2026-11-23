@@ -585,17 +585,17 @@
       "skip_nav": "o tawa poka"
     },
     "notification": {
-      "updated": "Element updated |||| %{smart_count} elements updated",
-      "created": "Element created",
-      "deleted": "Element deleted |||| %{smart_count} elements deleted",
-      "bad_item": "Incorrect element",
-      "item_doesnt_exist": "Element does not exist",
-      "http_error": "Server communication error",
-      "data_provider_error": "dataProvider error. Check the console for details.",
-      "i18n_error": "Cannot load the translations for the specified language",
-      "canceled": "Action cancelled",
-      "logged_out": "Your session has ended, please reconnect.",
-      "new_version": "New version available! Please refresh this window."
+      "updated": "ijo li ante |||| ijo %{smart_count} li ante",
+      "created": "ijo li lon",
+      "deleted": "ijo li weka |||| ijo %{smart_count} li weka",
+      "bad_item": "ijo ike",
+      "item_doesnt_exist": "ijo li lon ala",
+      "http_error": "toki tawa lawa la pakala",
+      "data_provider_error": "lawa sona li pakala. o lukin e ilo tawa sona mute.",
+      "i18n_error": "toki ante li kama ala.",
+      "canceled": "pali li weka",
+      "logged_out": "tenpo sina li pini. o pana e sona sina sin.",
+      "new_version": "ilo li sin! o weka e ilo o kama sin."
     },
     "toggleFieldsMenu": {
       "columnsToDisplay": "Columns To Display",
