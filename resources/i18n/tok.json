@@ -773,17 +773,17 @@
     "minutesAgo": "%{smart_count} minute ago |||| %{smart_count} minutes ago"
   },
   "help": {
-    "title": "Navidrome Hotkeys",
+    "title": "ilo luka lili",
     "hotkeys": {
-      "show_help": "Show This Help",
-      "toggle_menu": "Toggle Menu Side Bar",
-      "toggle_play": "Play / Pause",
-      "prev_song": "Previous Song",
-      "next_song": "Next Song",
-      "current_song": "Go to Current Song",
-      "vol_up": "Volume Up",
-      "vol_down": "Volume Down",
-      "toggle_love": "Add this track to favourites"
+      "show_help": "o lukin e lipu ni",
+      "toggle_menu": "o lukin e lipu poka",
+      "toggle_play": "o open anu lape",
+      "prev_song": "o tawa kalama pini",
+      "next_song": "o tawa kalama kama",
+      "current_song": "o tawa kalama ni",
+      "vol_up": "o suli e wawa kalama",
+      "vol_down": "o lili e wawa kalama",
+      "toggle_love": "o pana e kalama tawa lipu pi kalama pona"
     }
   }
 }
