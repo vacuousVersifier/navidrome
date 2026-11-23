@@ -768,9 +768,9 @@
     "elapsedTime": "Elapsed Time"
   },
   "nowPlaying": {
-    "title": "Now Playing",
-    "empty": "Nothing playing",
-    "minutesAgo": "%{smart_count} minute ago |||| %{smart_count} minutes ago"
+    "title": "kalama lon",
+    "empty": "jan ala li kute",
+    "minutesAgo": "tenpo lili %{smart_count} weka |||| tenpo lili %{smart_count} weka"
   },
   "help": {
     "title": "ilo luka lili",
