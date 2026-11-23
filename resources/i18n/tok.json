@@ -526,16 +526,16 @@
       "false": "ala"
     },
     "page": {
-      "create": "Create %{name}",
-      "dashboard": "Dashboard",
+      "create": "o lon e %{name}",
+      "dashboard": "lipu",
       "edit": "%{name} #%{id}",
-      "error": "Something went wrong",
+      "error": "pakala a!",
       "list": "%{name}",
-      "loading": "Loading",
-      "not_found": "Not Found",
+      "loading": "o awen",
+      "not_found": "ona li lon ala",
       "show": "%{name} #%{id}",
-      "empty": "No %{name} yet.",
-      "invite": "Do you want to add one?"
+      "empty": "%{name} li lon ala.",
+      "invite": "sina wile ala wile lon e ni?"
     },
     "input": {
       "file": {
