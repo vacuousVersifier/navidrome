@@ -573,16 +573,16 @@
       "unsaved_changes": "ante sina li kama awen ala. sina wile weka e ona anu seme?"
     },
     "navigation": {
-      "no_results": "No results found",
-      "no_more_results": "The page number %{page} is out of boundaries. Try the previous page.",
-      "page_out_of_boundaries": "Page number %{page} out of boundaries",
-      "page_out_from_end": "Cannot go after last page",
-      "page_out_from_begin": "Cannot go before page 1",
-      "page_range_info": "%{offsetBegin}-%{offsetEnd} of %{total}",
-      "page_rows_per_page": "Items per page:",
-      "next": "Next",
-      "prev": "Prev",
-      "skip_nav": "Skip to content"
+      "no_results": "ijo ala li lon",
+      "no_more_results": "nanpa lipu %{page} li ken ala. o lukin e nanpa lili.",
+      "page_out_of_boundaries": "nanpa lipu %{page} li ken ala.",
+      "page_out_from_end": "nanpa lipu li mute ike. o lukin e nanpa lili",
+      "page_out_from_begin": "nanpa lipu li mute ike. o lukin e nanpa mute",
+      "page_range_info": "%{offsetBegin}-%{offsetEnd} tan %{total}",
+      "page_rows_per_page": "ijo lon lipu:",
+      "next": "poka kama",
+      "prev": "poka pini",
+      "skip_nav": "o tawa poka"
     },
     "notification": {
       "updated": "Element updated |||| %{smart_count} elements updated",
