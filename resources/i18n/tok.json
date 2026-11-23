@@ -493,7 +493,7 @@
       "add_filter": "o weka e ijo",
       "add": "o pana",
       "back": "o weka tawa ma monsi",
-      "bulk_actions": "sina luke e ijo 1 |||| sina luke e ijo %{smart_count}",
+      "bulk_actions": "sina luka e ijo 1 |||| sina luka e ijo %{smart_count}",
       "bulk_actions_mobile": "1 |||| %{smart_count}",
       "cancel": "o weka e ante",
       "clear_input_value": "o weka e nimi",
