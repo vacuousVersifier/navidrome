@@ -464,7 +464,7 @@
       "welcome1": "pona a! sina kama jo e ilo Navidrome!",
       "welcome2": "open la, o pali e jan lawa.",
       "confirmPassword": "o pana kin e nimi len",
-      "buttonCreateAdmin": "o pali e jan lawa",
+      "buttonCreateAdmin": "o lon",
       "auth_check_error": "o pana e sona jan sina",
       "user_menu": "jan",
       "username": "nimi jan",
@@ -472,7 +472,7 @@
       "sign_in": "o pana e sona jan sina",
       "sign_in_error": "sina pana e sona ike. o alasa ni kin",
       "logout": "o weka",
-      "insightsCollectionNote": "ilo Navidrome li kama jo e sona. sona li jo ala e sona sina. sona ni li pona e ilo. sina wile sona sin anu weka e sona ni la, [o luka e mi]"
+      "insightsCollectionNote": "ilo Navidrome li kama jo e sona.\njan ante li kama jo e sona ni la,\nona li sona ala e sina li sona e nasin ilo sina taso.\nsona ni li pona e ilo.\nsina wile sona sin anu weka e sona ni la, [o luka e mi]."
     },
     "validation": {
       "invalidChars": "o kepeken e sitelen toki lili anu sitelen nanpa",
